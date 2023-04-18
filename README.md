@@ -1,0 +1,1 @@
+# vscode-codeceptjs-test-adapter
